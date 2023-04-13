@@ -35,6 +35,11 @@ const CheckoutPage = ({cartItems, total}) => (
                     Remove
                 </span>
             </div>
+            <div className='header-block'>
+                <div>
+                    something here too
+                </div>
+            </div>
         </div>
         {
             cartItems.map(cartItem =>

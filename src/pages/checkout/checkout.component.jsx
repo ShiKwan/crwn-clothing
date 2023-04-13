@@ -37,7 +37,7 @@ const CheckoutPage = ({cartItems, total}) => (
             </div>
             <div className='header-2block'>
                 <span>
-                    something wrong from dev
+                    trip trip
                 </span>
             </div>
         </div>

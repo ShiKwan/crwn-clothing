@@ -36,9 +36,9 @@ const CheckoutPage = ({cartItems, total}) => (
                 </span>
             </div>
             <div className='header-2block'>
-                <div>
-                    something here t222
-                </div>
+                <span>
+                    something wrong from dev
+                </span>
             </div>
         </div>
         {

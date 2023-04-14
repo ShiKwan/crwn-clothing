@@ -35,9 +35,9 @@ const CheckoutPage = ({cartItems, total}) => (
                     Remove
                 </span>
             </div>
-            <div className='header-2blocasdddk'>
+            <div className='header-block'>
                 <span>
-                    something wrong from kdjfgkj
+                    trip trippppp
                 </span>
             </div>
         </div>
